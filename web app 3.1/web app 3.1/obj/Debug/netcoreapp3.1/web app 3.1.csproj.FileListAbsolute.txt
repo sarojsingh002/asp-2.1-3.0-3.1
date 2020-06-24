@@ -1,0 +1,37 @@
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.exe
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.AssemblyInfoInputs.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.AssemblyInfo.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.RazorAssemblyInfo.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.RazorAssemblyInfo.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.TagHelpers.input.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.TagHelpers.output.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.RazorCoreGenerate.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.RazorTargetAssemblyInfo.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.RazorTargetAssemblyInfo.cs
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\staticwebassets\web app 3.1.StaticWebAssets.Manifest.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\staticwebassets\web app 3.1.StaticWebAssets.xml
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.deps.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.runtimeconfig.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.runtimeconfig.dev.json
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.dll
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.pdb
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.Views.dll
+D:\crud sks\web app 3.1\web app 3.1\bin\Debug\netcoreapp3.1\web app 3.1.Views.pdb
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.csprojAssemblyReference.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.csproj.CoreCompileInputs.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.MvcApplicationPartsAssemblyInfo.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.Views.pdb
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.dll
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.pdb
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.genruntimeconfig.cache
+D:\crud sks\web app 3.1\web app 3.1\obj\Debug\netcoreapp3.1\web app 3.1.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "McSCKRnDu5NUXQwG1njVHQGiYPIaDqFlnYiLAtP2YQseZ/mdDXMxg676kvC241cWEVnMG50xNjrAIRi0f5ahhQ==",
+  "success": true,
+  "projectFilePath": "D:\\crud sks\\web api 3.0\\web api 3.0\\web api 3.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saroj singh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

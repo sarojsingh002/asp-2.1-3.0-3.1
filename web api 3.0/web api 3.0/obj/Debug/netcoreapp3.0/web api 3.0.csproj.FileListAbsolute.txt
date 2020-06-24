@@ -1,0 +1,20 @@
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\appsettings.json
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.csprojAssemblyReference.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.AssemblyInfoInputs.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.AssemblyInfo.cs
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.RazorTargetAssemblyInfo.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\staticwebassets\web api 3.0.StaticWebAssets.Manifest.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\staticwebassets\web api 3.0.StaticWebAssets.xml
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.exe
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.deps.json
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.runtimeconfig.json
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.runtimeconfig.dev.json
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.dll
+D:\crud sks\web api 3.0\web api 3.0\bin\Debug\netcoreapp3.0\web api 3.0.pdb
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.csproj.CoreCompileInputs.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.MvcApplicationPartsAssemblyInfo.cache
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.dll
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.pdb
+D:\crud sks\web api 3.0\web api 3.0\obj\Debug\netcoreapp3.0\web api 3.0.genruntimeconfig.cache
